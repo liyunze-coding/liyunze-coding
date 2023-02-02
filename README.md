@@ -6,54 +6,38 @@ I'm Ryan, and I am a full-time computer science student who does content creatio
 
 ---
 
-<style>
-    #pfp {
-        height:150px;
-        border-radius:10px;
-    }
-
-    img.logo {
-        height:40px;
-        margin-right:10px;
-    }
-</style>
-
-<img src="images/pfp.webp" id="pfp">
+<img src="https://liyunze-coding.github.io/images/pfp.webp" style="height:200px; border-radius:10px;">
 
 ## Who am I?
 
 -    **Pronouns**: He/They
--    **Linguality**: Fluent in English and Mandarin, with a little bit of Malay
+-    **Linguality**: Fluent in English and Mandarin
 -    **Education**: 2nd year Diploma in Computer Science student
--    **Currently working on**: Open source tools for co-working streamers and YouTube videos about it
--    **Currently learning**: Frontend web frameworks, particularly Svelte and Vue
+-    **Currently working on**: Open source tools and YouTube videos for co-working streamers
+-    **Currently learning**: Frontend web frameworks (Svelte and Vue)
 -    **Website**: Check out my website [here](https://liyunze-coding.github.io)
 
 ---
 
 ## Languages
 
-<img src="images/python.webp" class="logo" alt="python">
-<img src="images/javascript.webp" class="logo" alt="Javascript">
-<img src="images/typescript.webp" class="logo" alt="typescript">
-<img src="images/html5.webp" class="logo" alt="HTML5">
-<img src="images/css3.webp" class="logo" alt="CSS3">
-<img src="images/R.webp" class="logo" alt="R">
-<img src="images/mysql-logo.webp" class="logo" alt="my sql">
-<img src="images/BF.webp" class="logo" alt="BrainF*ck">
+<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/python/python-original.svg" class="logo" alt="python" style=" height:40px; margin-right:10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/javascript/javascript-original.svg" class="logo" alt="Javascript" style=" height:40px; margin-right:10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" class="logo" alt="typescript" style=" height:40px; margin-right:10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" class="logo" alt="HTML5" style=" height:40px; margin-right:10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" class="logo" alt="CSS3" style=" height:40px; margin-right:10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/r/r-original.svg" class="logo" alt="R" style=" height:40px; margin-right:10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" class="logo" alt="my sql" style=" height:40px; margin-right:10px;">
 
 <br>
 
 ## Others
 
-<img src="images/vscode.webp" class="logo" alt="visual studio code">
-<img src="images/git.webp" class="logo" alt="git">
-<img src="images/obs.webp" class="logo" alt="OBS">
-<img src="images/davinci.webp" class="logo" alt="Davinci Resolve">
-<img src="images/node-js.webp" class="logo" alt="node JS">
-<img src="images/opencv.webp" class="logo" alt="OpenCV">
-<img src="images/jquery.webp" class="logo" alt="jQuery">
-<img src="images/selenium.webp" class="logo" alt="selenium">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" class="logo" alt="visual studio code" style=" height:40px; margin-right:10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" class="logo" alt="git" style=" height:40px; margin-right:10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" class="logo" alt="node JS" style=" height:40px; margin-right:10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opencv/opencv-original.svg" class="logo" alt="OpenCV" style=" height:40px; margin-right:10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-original.svg" class="logo" alt="jQuery" style=" height:40px; margin-right:10px;">
 
 ---
 
