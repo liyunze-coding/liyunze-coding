@@ -6,7 +6,7 @@ I'm Ryan, and I am a full-time computer science student who does content creatio
 
 ---
 
-<img src="https://liyunze-coding.github.io/images/pfp.webp" style="height:200px; border-radius:10px;">
+<img src="https://raw.githubusercontent.com/liyunze-coding/old-portfolio-2/gh-pages/images/pfp.webp" style="height:200px; border-radius:10px;">
 
 ## Who am I?
 
@@ -15,7 +15,7 @@ I'm Ryan, and I am a full-time computer science student who does content creatio
 -    **Education**: 2nd year Diploma in Computer Science student
 -    **Currently working on**: Open source tools and YouTube videos for co-working streamers
 -    **Currently learning**: Frontend web frameworks (Svelte and Vue)
--    **Website**: Check out my website [here](https://liyunze-coding.github.io)
+-    **Website**: Check out my website [here](https://ryanpython.me)
 
 ---
 
