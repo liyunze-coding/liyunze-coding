@@ -6,7 +6,9 @@ I'm Ryan, and I am a full-time computer science student who does content creatio
 
 ---
 
-<img src="https://raw.githubusercontent.com/liyunze-coding/old-portfolio-2/gh-pages/images/pfp.webp" style="height:200px; border-radius:10px;">
+<br>
+<img src="https://raw.githubusercontent.com/liyunze-coding/website/main/public/circle_logo.webp" style="height:200px; border-radius:10px;">
+<br>
 
 ## Who am I?
 
