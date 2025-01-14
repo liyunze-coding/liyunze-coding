@@ -27,3 +27,5 @@ I'm Ryan, I am a content creator with a background in Frontend Web Development a
 ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
 ![Sass Badge](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21upfmk2mwsvzfjtvoh764fty&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f00&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
