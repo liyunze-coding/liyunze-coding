@@ -49,4 +49,4 @@ I am honoured to be awarded for the prestigious **50% International Student Scho
 
 # My Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liyunze-coding&hide_rank=false&include_all_commits=false&hide=issues&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liyunze-coding&hide_rank=false&include_all_commits=false&hide=issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
