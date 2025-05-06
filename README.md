@@ -21,7 +21,7 @@ I am honoured to be awarded for the prestigious **50% International Student Scho
 - **President** of Computer Programming Club
 - **Vice President** of Diploma Student Union
 - **Technology Manager** of Prefects' Board
-- **Marketing Team member** of University's Malaysian Association
+- **Marketing Officer** of University's Malaysian Association
 
 ---
 
