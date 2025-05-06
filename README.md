@@ -46,4 +46,4 @@ I am honoured to be awarded for the prestigious 50% International Student Schola
 
 # My Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liyunze-coding&show=reviews,prs_merged&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liyunze-coding&hide_rank=false&include_all_commits=false&hide=issues&theme=tokyonight)
