@@ -15,7 +15,7 @@ I am honoured to be awarded for the prestigious **50% International Student Scho
      -    minor in Full Stack Development
 -    **Website**: https://rython.dev
 
-## Leadership Experiences & Extra-curricular Activities
+## Leadership Experiences & Extracurricular Activities
 
 - **President** of Magnus Technology Society
 - **President** of Computer Programming Club
