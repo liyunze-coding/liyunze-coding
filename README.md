@@ -1,18 +1,21 @@
 # Hello there, I'm Ryan!
 
-I am a student, developer and content creator with a background in Full Stack Web Development and Data Science!
+I am a student, developer and content creator with a background in **Full Stack Web Development** and **Data Science**!
 
-I am honoured to be awarded for the prestigious 50% International Student Scholarship to pursue my Bachelor's education in Australia.
+I am honoured to be awarded for the prestigious **50% International Student Scholarship** to pursue my Bachelor's education in Australia.
 
 ## Who am I?
 
 -    **Pronouns**: He/They
--    **Languages**: Fluent in English and Mandarin
+-    **Languages**: 
+     -    English (Fluent)
+     -    Mandarin Chinese (Fluent)
+     -    Malay (Intermediate)
 -    **Education**: Bachelor of Computer Science 
      -    minor in Full Stack Development
 -    **Website**: https://rython.dev
 
-## Leadership & Extra-curriculars
+## Leadership Experiences & Extra-curricular Activities
 
 - **President** of Magnus Technology Society
 - **President** of Computer Programming Club
