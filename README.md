@@ -1,8 +1,8 @@
 # Hello there, I'm Ryan!
 
-I am a student, developer and content creator with a background in **Full Stack Web Development** and **Data Science**!
+I am a student, developer and content creator with a background in **Full Stack Web Development** and **Data Science**.
 
-I am honoured to be awarded for the prestigious **50% International Student Scholarship** to pursue my Bachelor's education in Australia.
+I am honoured to be awarded the prestigious **50% Vice Chancellor International Student Scholarship** to pursue my Bachelor's education in Australia.
 
 ## Who am I?
 
@@ -15,6 +15,16 @@ I am honoured to be awarded for the prestigious **50% International Student Scho
      -    minor in Full Stack Development
 -    **Website**: https://rython.dev
 
+## Job Experiences
+
+- **Lead Frontend Developer** at JW BizTech
+- **Frontend Web Developer Intern** at Studio20
+- **Freelance Software Developer**
+  - [William Yao's website](https://thewilliamyao.com/)
+  - [Twitch Plays X](https://github.com/liyunze-coding/TwitchPlaysX)
+  - [Fifi Discord bot](https://discord.com/oauth2/authorize?client_id=884695407316336650)
+  - [Twitch Banner Widget](https://github.com/liyunze-coding/Banner-Widget)
+
 ## Leadership Experiences & Extracurricular Activities
 
 - **President** of Magnus Technology Society
@@ -25,9 +35,9 @@ I am honoured to be awarded for the prestigious **50% International Student Scho
 
 ---
 
-<!-- https://github.com/Ileriayo/markdown-badges -->
-
 ## Tech Stack
+
+<!-- https://github.com/Ileriayo/markdown-badges -->
 
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)](https://github.com/liyunze-coding/TwitchPlaysX)
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)](https://github.com/liyunze-coding/Chat-Task-Tic-Overlay-Infinity)
@@ -47,6 +57,3 @@ I am honoured to be awarded for the prestigious **50% International Student Scho
 ![Sass Badge](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge)
 [![htmx Badge](https://img.shields.io/badge/htmx-36C?logo=htmx&logoColor=fff&style=for-the-badge)](https://github.com/liyunze-coding/Go-HTMX-template)
 
-# My Github Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liyunze-coding&hide_rank=false&include_all_commits=false&hide=issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
