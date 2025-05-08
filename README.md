@@ -2,15 +2,15 @@
 
 🎓 I am a student, 💻 developer and 🎬 content creator with a background in **Full Stack Web Development** 🌐 and **Data Science** 📊.
 
-🏆 I am honoured to be awarded the prestigious **50% Vice Chancellor International Student Scholarship** to pursue my Bachelor's education in Australia 🇦🇺.
+🏆 I am honoured to be awarded the prestigious **50% Vice Chancellor International Student Scholarship** to pursue my Bachelor's education in Australia.
 
 ## 🤷 Who am I?
 
 - 🗣️ **Pronouns**: He/They
 - 🌏 **Languages**:
-  - 🇬🇧 English (Fluent)
-  - 🇨🇳 Mandarin Chinese (Fluent)
-  - 🇲🇾 Malay (Intermediate)
+  - English (Fluent)
+  - Mandarin Chinese (Fluent)
+  - Malay (Intermediate)
 - 🎓 **Education**: Bachelor of Computer Science
   - 💻 minor in Full Stack Development
 - 🌐 **Website**: [rython.dev](https://rython.dev)
@@ -28,8 +28,8 @@
 
 ## 🏆 Leadership Experiences & Extracurricular Activities
 
-- 👑 **President** of Magnus Technology Society
-- 👑 **President** of Computer Programming Club
+- 💻 **President** of Magnus Technology Society
+- 💻 **President** of Computer Programming Club
 - 🤝 **Vice President** of Diploma Student Union
 - ⚙️ **Technology Manager** of Prefects' Board
 - 📣 **Marketing Officer** of University's Malaysian Association
