@@ -1,32 +1,32 @@
 # 👋 Hello there, I'm Ryan!
 
-🎓 I am a student, 💻 developer and 🎬 content creator with a background in **Full Stack Web Development** 🌐 and **Data Science** 📊.
+I am a 🎓 student, 💻 developer and 🎬 content creator with a background in **Full Stack Web Development** and **Data Science**.
 
-🏆 I am honoured to be awarded the prestigious **50% Vice Chancellor International Student Scholarship** to pursue my Bachelor's education in Australia.
+I am honoured to be awarded the prestigious 🏆 **50% Vice Chancellor International Student Scholarship** to pursue my Bachelor's education in Australia.
 
-## 🤷 Who am I?
+## Who am I?
 
-- 🗣️ **Pronouns**: He/They
-- 🌏 **Languages**:
+- **Pronouns**: He/They
+- **Languages**:
   - English (Fluent)
   - Mandarin Chinese (Fluent)
   - Malay (Intermediate)
-- 🎓 **Education**: Bachelor of Computer Science
+- **Education**: Bachelor of Computer Science
   - 💻 minor in Full Stack Development
 - 🌐 **Website**: [rython.dev](https://rython.dev)
 
-## 💼 Job Experiences
+## Job Experiences
 
-- 👨‍💻 **Lead Frontend Developer** at JW BizTech
-- 💻 **Frontend Web Developer Intern** at Studio20
-- 🛠️ **Freelance Software Developer**
+- **Lead Frontend Developer** at JW BizTech
+- **Frontend Web Developer Intern** at Studio20
+- **Freelance Software Developer**
   - 🌐 [William Yao's website](https://thewilliamyao.com/)
   - 🟪 [Twitch Plays X](https://github.com/liyunze-coding/TwitchPlaysX)
   - 🟪 [Twitch Banner Widget](https://github.com/liyunze-coding/Banner-Widget)
   - 🤖 [Fifi Discord bot](https://discord.com/oauth2/authorize?client_id=884695407316336650)
 
 
-## 🏆 Leadership Experiences & Extracurricular Activities
+## Leadership Experiences & Extracurricular Activities
 
 - 💻 **President** of Magnus Technology Society
 - 💻 **President** of Computer Programming Club
