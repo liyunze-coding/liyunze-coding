@@ -20,7 +20,7 @@ I am honoured to be awarded the prestigious 🏆 **50% Vice Chancellor Internati
 - **Lead Frontend Developer** at JW BizTech
 - **Frontend Web Developer Intern** at Studio20
 - **Freelance Software Developer**
-  - 🌐 [William Yao's website](https://thewilliamyao.com/)
+  - 🌐 TofuSenpai's website
   - 🟪 [Twitch Plays X](https://github.com/liyunze-coding/TwitchPlaysX)
   - 🟪 [Twitch Banner Widget](https://github.com/liyunze-coding/Banner-Widget)
   - 🤖 [Fifi Discord bot](https://discord.com/oauth2/authorize?client_id=884695407316336650)
