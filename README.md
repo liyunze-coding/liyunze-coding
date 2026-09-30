@@ -1,8 +1,8 @@
 # 👋 Hello there, I'm Ryan!
 
-I'm studying Bachelor of Computer Science and stream co-working & studying on Twitch. 
+I stream co-working & studying on Twitch, making tutorials in tech for content creators. 
 
-I am honoured to be awarded the prestigious **50% Vice Chancellor International Student Scholarship** to pursue my Bachelor's education in Australia.
+I recently completed my Bachelors degree with a **50% Vice Chancellor International Student Scholarship** in Australia, and I am looking for employment in Malaysia.
 
 ## Who am I?
 
